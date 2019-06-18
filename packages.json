@@ -1,0 +1,21 @@
+{
+  "name": "trafficledger",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "jquery": "2.1.4",
+    "angular": "1.4.8",
+	"angular-ui-mask": "1.6.7",
+	"bootstrap": "3.3.6",
+	"api-check": "7.5.0",
+	"angular-formly": "7.3.9",
+	"angular-formly-templates-bootstrap": "6.2.0",
+	"angularjs-toaster": "0.4.15",
+	"angular-ui-bootstrap": "0.14.3",
+    "moment": "2.11.0",
+	"underscore": "1.8.3",
+	"bootbox": "4.4.0",
+	"jsoneditor": "4.2.1",
+	"daterangepicker": 2.1.25"
+  }
+}
