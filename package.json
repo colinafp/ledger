@@ -4,7 +4,7 @@
   "private": false,
   "dependencies": {
 	"jquery": "2.1.4",
-	"angular": "1.4.8",
+	"angular": "1.7.8",
 	"angular-ui-mask": "1.6.7",
 	"bootstrap": "3.3.6",
 	"api-check": "7.5.0",
