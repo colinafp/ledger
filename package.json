@@ -15,7 +15,7 @@
 	"moment": "2.11.0",
 	"underscore": "1.8.3",
 	"bootbox": "4.4.0",
-	"jsoneditor": "4.2.1",
+	"jsoneditor": "9.0.2",
 	"daterangepicker": "2.1.25"
   }
 }
